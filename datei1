@@ -100,6 +100,7 @@ start:baslamak
 serve: servis etmek
 set:ayarlamak belirlemek
 sit:oturmak
+smell: koku almak
 speak:konusmak "She speaks English fluently." (O, akıcı bir şekilde İngilizce konuşur.)
 spend:harcamak
 stay:kalmak
@@ -130,10 +131,13 @@ GENIZ ZAMANALA KULLANILMASI GEREKEN FIILLER.
 love, like, hate, belive, want, need, prefer,realise, remember, forget, know, see
 
 alien(elyin): uzayli
+arrival: varis (departure: kalkis)
 chief(ciif): sef
 competition(kompetisin)=yarisma
+cub(kab): enik, yavru
 phantom(fentim):hayalet
 poetry: siir
+seal: fok baligi
 scenery(senery): manzara
 skyscraper: gökdelen
 upstairs: üstkat
@@ -144,6 +148,7 @@ divorced: boschanmis
 
 affirmative: olumlu(cümle)
 below: alttaki, asagidaki
+carnivorous: etcil (carnivorous mammals: Etcil memeliler)
 common(kamin): alisilagelmis
 excellent:mükemmel
 generous:comert
@@ -159,12 +164,14 @@ pleasant:hos
 sad:mutsuz
 shallow: sig xderin olmayan
 terrible:berbat
-thick:kalin
+thick:kalin Thick fur(kalin kürk) furry: kürklü
 tight(tayt):siki(elbise)
 tough(taf): sert kuvvetli
 ugly(agli):cirkin
 weak: zayif
 wide:genis
+
+truly: gercekten, hakikaten
 
 Frequency Advebs (How often?)
 always
@@ -684,12 +691,12 @@ Ali and Veli invited me to dinner, I said "no" to them.
 
 REFLEXIVE PRONOUNS - dönüslülük zamirleri
 
-I 		myself 		kendim
+I 	myself 		kendim
 you 	yourself 	kendin
-he 		himself 	
+he 	himself 	
 she 	herself 	kendisi
-it 		itself
-we 		ourselves 	kendimiz
+it 	itself
+we 	ourselves 	kendimiz
 you 	yourselves 	kendiniz
 they	themselves 	kendileri
 
@@ -1144,8 +1151,24 @@ Was there a language class in your school? -okulunuzda ingilizce sinifi var miyd
 Were there many people in the cocncert? - konserde cok insan var miydi?
 Yes, there was/were. / No there wasn't/weren't - Evet vardi/Hayir yoktu.
 
+------------------------------------------------------------------------------------------------
 
+xxx
+Call me as soon as possible. - Beni mümkün olan en kisa süre icinde ara.
+Do it yourself! - Kendin yap!
+I can do it myself. - kendim yapabilirim.
+They blame themselves for this situation. - Bu durumdan dolayi kendilerini sucluyorlar.
+I will be with you in a moment. - birazdan seninle olacagim.
+Please, "help yourself to" some cookies on the table.
+-Lütfen istediginiz sekilde masanin üzerindeki kurabiyelerden aliniz. (Acik büfe + Selfservis)
+This guy is having a heart attack. - Bu adam kalp krizi geciriyor.
 
+Today I am going to teach you how to make an omlette,
+First break the eggs and mix for a while. - bir müddet karistir.
+Then, add some cheese and salt,
+Melt the butter in the pan and put the mixture in it. - tavada tereyagini erit ve karisimi koy.
+Finally, cook it for 5 minutes. Enjoy your omlette.
+stay up late at weekends. - gece gec saatlere kadar uyanik kalmak.
 
 
 
