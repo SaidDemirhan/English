@@ -103,6 +103,8 @@ sit:oturmak
 smell: koku almak
 speak:konusmak "She speaks English fluently." (O, akıcı bir şekilde İngilizce konuşur.)
 spend:harcamak
+spread: yaymak, genisletmek
+sprinkle: serpmek, üzerine sacmak (tuz)
 stay:kalmak
 stop:durmak
 succeed(sikseed): basarmak
@@ -131,12 +133,17 @@ GENIZ ZAMANALA KULLANILMASI GEREKEN FIILLER.
 love, like, hate, belive, want, need, prefer,realise, remember, forget, know, see
 
 alien(elyin): uzayli
+anger: sinir, öfke
 arrival: varis (departure: kalkis)
 chief(ciif): sef
 competition(kompetisin)=yarisma
 cub(kab): enik, yavru
+faith: güven
+kindness: kibarlik, nezaket
+laughter: kahkaha, gülme
 phantom(fentim):hayalet
 poetry: siir
+recipe: tarif, yöntem
 seal: fok baligi
 scenery(senery): manzara
 skyscraper: gökdelen
@@ -672,12 +679,12 @@ I come from Paris
 
 OBJECT PRONOUNS - Nesne zamirleri
 
-I 		me 		beni 	bana
+I 	me 	beni 	bana
 *you 	you 	seni 	sana
-he 		him 	
+he 	him 	
 she 	her 	onu 	ona
-*it 		it
-we 		us 		bizi 	bize
+*it 	it
+we 	us 	bizi 	bize
 *you 	you 	sizi 	size
 they 	them 	onlari 	onlara
 
@@ -1169,8 +1176,8 @@ Then, add some cheese and salt,
 Melt the butter in the pan and put the mixture in it. - tavada tereyagini erit ve karisimi koy.
 Finally, cook it for 5 minutes. Enjoy your omlette.
 stay up late at weekends. - gece gec saatlere kadar uyanik kalmak.
-
-
+according to the text: yaziya göre
+"at some point" önünde sonunda
 
 
 
