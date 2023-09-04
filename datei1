@@ -36,6 +36,7 @@ bring:getirmek
 build: insa etmek
 call:tlf aramak
 change:degistirmek
+cheat: kopya cekmek
 cite(sayt):bahsetmek
 come:gelmek
 conduct(kondakt): iletmek, nakletmek, yönetmek
@@ -43,6 +44,7 @@ consider: degerlendirmek, düsünmek
 continue: devam etmek
 create:olusturmak
 cut:kesmek
+depend: bagli olmak (sana bagli, senin elinde) It depends on you!
 die:ölmek
 do: yapmak "I need to do my homework." (Ödevimi yapmam gerekiyor.)
 expect:beklemek
@@ -885,6 +887,11 @@ He has to wear a tie at work.  iste kravat takmak zorunda
 I don't have to clean the house. - evi temizlemek zorunda degilim.
 
 
+OUGHT TO - tavsiye (yapmalisin)
+
+It's cold outside. You ought to take your jacket with you.
+- Disarisi soguk, yanina ceket almalisin. (tavsiye)
+
 SHALL
 
 I shall be in England this time next week. - Gelecek hafta bu vakit ingilterede olacagim.
@@ -1193,7 +1200,10 @@ You mustn't drop litter on the streets. -cöplerini sokaklara atma (drop litter:
 Why are you so upset? - nicin cok üzgünsün?
 That's sad! -bu üzücü
 I am broke novadays. - bu günlerde param yok, meteliksizim.
-
+It depends on you. - bu senin elinde, sana bagli
+You might die in case of an accident. - kaza durumunda ölebilirsin.
+The worst thing about living alone... - yalniz yasamanin en kötü yani...
+You got 25 out of 100 from the exam. - sinavdan 100 üzerinden 25 aldin.
 
 
 
