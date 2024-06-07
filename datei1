@@ -29,6 +29,7 @@ appear:görünmek "The sun appeared behind the clouds." (Güneş bulutların ark
 arrange: düzenleme tanzim etme, (oda vs)
 ask: sormak I want to ask you something
 attend: katilmak, istirak etmek (toplanti)
+avoid: sakinmak, uzak durmak
 be:olmak,-dir.
 become:olmak "The caterpillar becomes a butterfly." (Tırtıl kelebek olur.)
 begin:baslamak
@@ -113,6 +114,7 @@ sprinkle: serpmek, üzerine sacmak (tuz)
 stay:kalmak
 stop:durmak
 succeed(sikseed): basarmak
+suggest(sacist): teklif etmek, önermek "I suggest leaving this place right now." (burdan hemen ayrilmani öneririm)
 take:almak "Take an umbrella with you. It might rain." (Yanında bir şemsiye al. Yağmur yağabilir.)
 talk:konusmak "I talked to my friend on the phone." (Arkadaşımla telefonda konuştum.)
 tell:söylemek, anlatmak "He told me a funny joke." (Bana komik bir şaka anlattı.)
@@ -2184,6 +2186,51 @@ GERUNDS - -ING takisi alan fiiller
 I like watching action movies. -aksiyon filmlerini izlemeyi severim.
 Swimming is my hobby. -yüzmek hobimdir. -tek basina da kullanilir.
 
+%90 Gerund alan fiiller:
+admit: itiraf etmek
+anticipate: beklemek (bir beklenti olmali)
+appreciate (aprischieyd): takdir etmek, begenmek
+attempt: denemek, kalkismak, girisimde bulunmak
+avoid: önlemek, sakinmak
+be worth: degeri olmak
+carry on:sürdürmek
+complete: tamamlamak
+consider: dikkate almak
+continue: devam etmek
+delay: gecikmek
+deny: reddetmek
+detest: hoslanmamak, igrenmek
+discuss: tartismak
+dislike: begenmemek
+enjoy: eglenmek
+escape: kacmak
+fancy: düslemek, hayal kurmak
+feel like: cani istemek
+finish: bitirmek
+give up: birakmak, vazgecmek, teslim etmek
+can't help: yardim edememek
+imagine: düsünmek hayal etmek
+involve: kapsamak, icermek
+keep(continue): devam ettirmek, tutmak
+keep on: sürdürmek, devam ettirmek
+mention: bahsetmek
+mind: onemsemeke, kafaya takmak
+miss: kacirmak, özlemek
+postpone: ertelemek, geciktirmek
+practice: pratik yapmak
+put off: ertelemek, bastan savmak..
+quit: cikmak, birakmak, ayrilmak
+stand: ayakta durmak
+suggest:önermek, teklif etmek
+tolerate: hos görmek, müsamaha göstermek
+risk: riske girmek, göze almak
+resist: engellemek, karsi cikmak
+prevent: engel olmak, men etmek, yol göstermek
+forgive: bagislamak, affetmek
+
+
+
+
 ---------------------------------
 
 INFINITIVES - fiilin basina TO getirilerek kullanilan fiiller
@@ -2193,12 +2240,18 @@ I want to eat icecream. -Dondurma yemek istiyorum.
 --------------------------------
 
 HEM GERUNDS HEM INFINITIFALAN FIILLER
+(bu fiiller genelde -ING takisi alan bir fiil ile birlikte kullanilir.)
 
 like
 I like reading novels. -Roman okumayi severim.
 I like to read a book. -Kitap okumayi severim.
 
+I like singing. -Sarki söylemeyi severim.
+I like to sing in the bathroom when I bath. -Dus alirken sarki söylemeyi severim.
+
 hate
+I hate going to work on mondays
+
 love
 prefer
 
